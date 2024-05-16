@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="Cache" version="25">
+  <Document name="iris-o-data.ZPM">
+    <Module>
+      <Name>iris-o-data</Name>
+      <Version>1.0.1</Version>
+      <Description>Simple OData client for IRIS with TripPinWS examples</Description>
+      <Packaging>module</Packaging>
+      <SourcesRoot>src</SourcesRoot>
+      <Resource Name="DcLib.PKG"/>
+	  <Resource Name="TripPinWS.PKG"/>
+    </Module>
+  </Document>
+</Export>
